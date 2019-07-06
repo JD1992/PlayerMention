@@ -1,0 +1,8 @@
+name: deinpling
+author: JD1992
+version: ${project.version}
+main: PlayerMention
+commands:
+  deinpling:
+    description: Hauptcommand für das Plugin
+    usage: /deinpling <reload/mute>
